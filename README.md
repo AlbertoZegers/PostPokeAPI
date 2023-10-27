@@ -1,6 +1,14 @@
 # postPokeAPI
-Consumo de la pokeAPI mediante Post \n
-En caso de no tener instalado FastAPI: \n 
-pip3 install fastapi \n
-pip3 install "uvicorn[standard]" \n
+Consumo de la pokeAPI mediante Post
+
+
+En caso de no tener instalado FastAPI:
+
+
+pip3 install fastapi
+
+
+pip3 install "uvicorn[standard]"
+
+
 Levantar con "uvicorn ServeAPI:app --reload"
