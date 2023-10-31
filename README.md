@@ -7,4 +7,4 @@ pip3 install fastapi
 pip3 install "uvicorn[standard]"
 
 
-Levantar servidor con "uvicorn ServeAPI:app --reload"
+Levantar servidor con "uvicorn ServeAPI:app --reload" con el cmd a la altura del archivo ServeAPI.py
